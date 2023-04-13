@@ -1,0 +1,42 @@
+{
+  "squadName" : "DC Heroes",
+  "homeTown" : "DC Community",
+  "formed" : 1934,
+  "secretBase" : "Burbank, California, Estados Unidos",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Batman",
+      "age" : "27 Mayo 1939",
+      "secretIdentity" : "Bruce Wayne",
+      "powers" : [
+        "Intelecto nivel genio.​",
+        "Brillante estratega.",
+        "acróbata experto"
+      ]
+    },
+    {
+      "name" : "Superman",
+      "age" : "18 abril 1938",
+      "secretIdentity" : "Clark Kent",
+      "powers" : [
+        "Invulnerabilidad.",
+        "Factor de curación rápida.",
+        "Vuelo",
+        "Súper fuerza"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Experta en combate cuerpo a cuerpo.",
+        "Poder hablar con los animales.",
+        "Súper Velocidad",
+        "Súper Fuerza",
+        "Inmortalidad"
+      ]
+    }
+  ]
+}
