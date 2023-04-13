@@ -28,8 +28,8 @@
     },
     {
       "name" : "Mujer Maravilla",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "age" : "Cerca del año 3000 a.C.",
+      "secretIdentity" : "Diana de Temiscira",
       "powers" : [
         "Experta en combate cuerpo a cuerpo.",
         "Poder hablar con los animales.",

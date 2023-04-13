@@ -2,18 +2,20 @@
 
 html {
   font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  font-size: large;
 }
 
 body {
-  width: 800px;
+  width: 950px;
   margin: 0 auto;
   color: whitesmoke;
+  background-size: cover;
   background-image: url("img/DC COMICS 0.png");
 
 }
 
 h1, h2 {
-  font-family: 'Century Gothic', cursive;
+  font-family: 'Alkatra', cursive;
 }
 
 /* header styles */
@@ -21,6 +23,7 @@ h1, h2 {
   h1 {
     font-size: 4rem;
     text-align: center;
+    color: azure;
   }
 }
 
@@ -64,7 +67,7 @@ h1, h2 {
 }
 
 section p {
-  margin: 5px 0;
+  margin: 4px 0;
 }
 
 section ul {
@@ -72,7 +75,8 @@ section ul {
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   letter-spacing: -5px;
   margin-bottom: 10px;
+  color: cyan;
 }
